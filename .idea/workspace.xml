@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07910a64-542a-4605-8fbd-01b3d3129b03" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/research/covid4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/research/images/researchcovid4/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/research/images/researchcovid4/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/research/images/researchcovid4/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/research/images/researchcovid4/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/research/images/researchcovid4/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/research/images/researchcovid4/6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/research/images/researchcovid4/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/covid5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/images/researchcovid5/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/images/researchcovid5/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/images/researchcovid5/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/images/researchcovid5/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/images/researchcovid5/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/images/researchcovid5/6.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/research/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/research/index.html" afterDir="false" />
     </list>
